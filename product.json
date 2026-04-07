@@ -1,0 +1,16 @@
+{
+  "id": "design",
+  "name": "Design",
+  "tagline": "AI-powered creative solution",
+  "description": "AI-powered design application built for Aurora Market. Modern, responsive design with SaaS monetization.",
+  "category": "creative",
+  "tags": ["ai", "creative"],
+  "url": "https://auroramarket.org/design",
+  "demo": "https://21leahcimhtiek-oss.github.io/design",
+  "repo": "https://github.com/21leahcimhtiek-oss/design",
+  "stack": ["HTML", "CSS", "JavaScript"],
+  "status": "mvp",
+  "version": "1.0.0",
+  "author": "Aurora Rayes LLC",
+  "license": "MIT"
+}
