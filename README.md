@@ -1,6 +1,6 @@
 # design
 
-AI-powered application from Aurora Market.
+AI-powered application from Aurora Rayes ecosystem.
 
 ## Domain
 https://auroramarket.org
